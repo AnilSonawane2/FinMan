@@ -1,3 +1,0 @@
-if you want to export in different folder
-then copy that paticular folder from zip then install npm in both 
-set the database link in backend index.js
